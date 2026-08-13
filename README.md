@@ -28,7 +28,7 @@
 
 ## Pantalla Principal
 
-![Monitoreo App](public/image.png)
+![Monitoreo App](public/imagen.png)
 
 *Pantalla principal de la aplicación mostrando el dashboard de monitoreo en tiempo real*
 
